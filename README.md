@@ -16,3 +16,6 @@ To deploy to mumbai testnet:
 ```shell
 npx hardhat run --network mumbai scripts/deploy.js
 ```
+
+contract address: 0x304CB9f97E604AfedaF2655c1F784df9f97155e3
+https://mumbai.polygonscan.com/address/0x304CB9f97E604AfedaF2655c1F784df9f97155e3#code

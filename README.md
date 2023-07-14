@@ -14,4 +14,5 @@ npx hardhat run scripts/deploy.js
 To deploy to mumbai testnet:
 
 ```shell
+npx hardhat run --network mumbai scripts/deploy.js
 ```
